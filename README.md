@@ -50,15 +50,15 @@ These patterns helped me understand which features might be useful for predictin
 
 ### Threshold Selection
 
-![Threshold Selection](assets/threshold_selection.png)
+![Threshold Selection](asset/threshold_selection.png)
 
 ### Model Evaluation
 
-![Model Evaluation](assets/model_evaluation.png)
+![Model Evaluation](asset/model_evaluation%20%281%29.png)
 
 ### Feature Importance
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](asset/feature_importance%20%281%29.png)
 
 Contract type and tenure turned out to be the most important features in the final permutation-importance analysis.
 
